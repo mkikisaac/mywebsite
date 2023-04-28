@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Project Ideas</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>My Project Ideas</h1>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About Me</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Project 1</h2>
+			<p>Use of Remote Sensing and GIS to measure the rate of siltation of lakes and dams and predicting their life span in Kenya.</p>
+		</section>
+		<section>
+			<h2>Project 2</h2>
+			<p>Use of Remote Sensing to analyse the changes in biomass and forest coverage in Mau Forest after eviction of people.</p>
+		</section>
+	</main>
+	<footer>
+		<p>Copyright © 2023</p>
+	</footer>
+</body>
+</html>
